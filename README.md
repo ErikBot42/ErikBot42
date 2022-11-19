@@ -1,4 +1,4 @@
-# Hello!
+# Hello
 
 
 I enjoy [programming](https://en.wikipedia.org/wiki/Computer_programming), [computer architecture](https://en.wikipedia.org/wiki/Computer_architecture), [shaders](https://en.wikipedia.org/wiki/Shader) and [math](https://en.wikipedia.org/wiki/Mathematics).
