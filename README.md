@@ -13,6 +13,22 @@ Fan of [FOSS](https://www.fsf.org/about/what-is-free-software) & [Linux](https:/
 
 My work can be found here and on [YouTube](https://www.youtube.com/@erikbot42)
 
+
+<a href="icons/rust.png"><img src="icons/rust.png" alt="rust" width="48" height="48"/></a>
+<a href="icons/cpp.svg"><img src="icons/cpp.svg" alt="" width="48" height="48"/></a>
+<a href="icons/c.svg"><img src="icons/c.svg" alt="" width="48" height="48"/></a>
+<a href="icons/python.svg"><img src="icons/python.svg" alt="" width="48" height="48"/></a>
+<a href="icons/nvim.png"><img src="icons/nvim.png" alt="" width="48" height="48"/></a>
+<a href="icons/haskell.svg"><img src="icons/haskell.svg" alt="" width="48" height="48"/></a>
+<a href="icons/lua.svg"><img src="icons/lua.svg" alt="" width="48" height="48"/></a>
+<a href="icons/javascript.svg"><img src="icons/javascript.svg" alt="" width="48" height="48"/></a>
+<a href="icons/java.svg"><img src="icons/java.svg" alt="" width="48" height="48"/></a>
+<a href="icons/html.svg"><img src="icons/html.svg" alt="" width="48" height="48"/></a>
+<a href="icons/css.svg"><img src="icons/css.svg" alt="" width="48" height="48"/></a>
+<a href="icons/csharp.svg"><img src="icons/csharp.svg" alt="" width="48" height="48"/></a>
+
+
+
 <!--
 **ErikBot42/ErikBot42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
