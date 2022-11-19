@@ -62,7 +62,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-#
-![image](https://user-images.githubusercontent.com/63870842/202862873-402d7b2d-3e06-4db3-9f5c-7f78c422d123.png)
-#
+# Some of my visual projects
+## [discrete-logic-simulator](../../../discrete-logic-simulator)
 ![clip](https://user-images.githubusercontent.com/63870842/201472068-4dfb62d5-0c28-48c0-ae3d-54ddf9415810.gif)
+## [RaymarchShader](../../../RaymarchShader)
+![image](https://user-images.githubusercontent.com/63870842/202862873-402d7b2d-3e06-4db3-9f5c-7f78c422d123.png)
+## [rust-raytracing](../../../rust-raytracing)
+<a href=""><img src="https://user-images.githubusercontent.com/63870842/202873109-99c2508a-a76b-4edf-abb1-b76d00f255dd.png" alt="" width="512" height="512"/></a>
