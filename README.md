@@ -13,19 +13,45 @@ Fan of [FOSS](https://www.fsf.org/about/what-is-free-software) & [Linux](https:/
 
 My work can be found here and on [YouTube](https://www.youtube.com/@erikbot42)
 
-
+<!--
 <a href="icons/rust.png"><img src="icons/rust.png" alt="rust" width="48" height="48"/></a>
 <a href="icons/cpp.svg"><img src="icons/cpp.svg" alt="" width="48" height="48"/></a>
 <a href="icons/c.svg"><img src="icons/c.svg" alt="" width="48" height="48"/></a>
 <a href="icons/python.svg"><img src="icons/python.svg" alt="" width="48" height="48"/></a>
-<a href="icons/nvim.png"><img src="icons/nvim.png" alt="" width="48" height="48"/></a>
-<a href="icons/haskell.svg"><img src="icons/haskell.svg" alt="" width="48" height="48"/></a>
+<a href="icons/java.svg"><img src="icons/java.svg" alt="" width="48" height="48"/></a>
+<a href="icons/csharp.svg"><img src="icons/csharp.svg" alt="" width="48" height="48"/></a>
 <a href="icons/lua.svg"><img src="icons/lua.svg" alt="" width="48" height="48"/></a>
 <a href="icons/javascript.svg"><img src="icons/javascript.svg" alt="" width="48" height="48"/></a>
-<a href="icons/java.svg"><img src="icons/java.svg" alt="" width="48" height="48"/></a>
+<a href="icons/haskell.svg"><img src="icons/haskell.svg" alt="" width="48" height="48"/></a>
+<a href="icons/nvim.png"><img src="icons/nvim.png" alt="" width="48" height="48"/></a>
 <a href="icons/html.svg"><img src="icons/html.svg" alt="" width="48" height="48"/></a>
-<a href="icons/css.svg"><img src="icons/css.svg" alt="" width="48" height="48"/></a>
-<a href="icons/csharp.svg"><img src="icons/csharp.svg" alt="" width="48" height="48"/></a>
+<a href="icons/css.svg"><img src="icons/css.svg" alt="" width="48" height="48"/></a> -->
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aarch64/aarch64-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
+<a href=""><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons//-original.svg" width="48" height="48"></a>
 
 
 
