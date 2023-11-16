@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 
  media | description
  --- | ---
-<a href=""><img src="https://user-images.githubusercontent.com/63870842/201472068-4dfb62d5-0c28-48c0-ae3d-54ddf9415810.gif" alt="" width="256" /></a> | [discrete-logic-simulator](../../../discrete-logic-simulator) <br /> VCB style optimizing logic simulator.
+<a href=""><img src="https://user-images.githubusercontent.com/63870842/201472068-4dfb62d5-0c28-48c0-ae3d-54ddf9415810.gif" alt="" width="256" /></a> | [discrete-logic-simulator](../../../discrete-logic-simulator) <br /> Logic simulator for tick based games such as VCB.
 <a href=""><img src="https://user-images.githubusercontent.com/63870842/283479069-b2d381e0-e22c-4ebf-ac4e-9d260a5a69e1.png" alt="" width="256" /></a> | [point_simulation](../../../point_simulation) <br /> SIMD particle life implementation.
 <a href=""><img src="https://user-images.githubusercontent.com/63870842/202862873-402d7b2d-3e06-4db3-9f5c-7f78c422d123.png" alt="" width="256" /></a> | [RaymarchShader](../../../RaymarchShader) <br /> A somewhat optimized SDF rendering shader.
 <a href=""><img src="https://user-images.githubusercontent.com/63870842/202873109-99c2508a-a76b-4edf-abb1-b76d00f255dd.png" alt="" width="256" /></a> | [rust-raytracing](../../../rust-raytracing) <br /> A somewhat optimized CPU raytracer.
