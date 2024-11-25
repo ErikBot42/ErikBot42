@@ -38,11 +38,9 @@ Here are some ideas to get you started:
 
 
 
-
-
-
  media | description
  --- | ---
+<a href=""><img src="https://github.com/user-attachments/assets/31db73f9-d02b-46ce-b2f1-7d3c04d15f36" alt="" width="256" /></a> | [marching_cubes_rs](../../../marching_cubes_rs) <br /> Bitpacked Marching Cubes in Rust + WGSL
 <a href=""><img src="https://user-images.githubusercontent.com/63870842/201472068-4dfb62d5-0c28-48c0-ae3d-54ddf9415810.gif" alt="" width="256" /></a> | [discrete-logic-simulator](../../../discrete-logic-simulator) <br /> Logic simulator for tick based games such as VCB.
 <a href=""><img src="https://user-images.githubusercontent.com/63870842/283479069-b2d381e0-e22c-4ebf-ac4e-9d260a5a69e1.png" alt="" width="256" /></a> | [point_simulation](../../../point_simulation) <br /> SIMD particle life implementation.
 <a href=""><img src="https://user-images.githubusercontent.com/63870842/202862873-402d7b2d-3e06-4db3-9f5c-7f78c422d123.png" alt="" width="256" /></a> | [RaymarchShader](../../../RaymarchShader) <br /> A somewhat optimized SDF rendering shader.
